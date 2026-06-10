@@ -1,4 +1,4 @@
-import AuthStatus from "@/components/AuthStatus";
+
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
